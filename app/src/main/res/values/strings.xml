@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Aula3DispositivosMoveis</string>
+    <string name="valor_inicial" tools:ignore="MissingTranslation">Initial Value:</string>
+    <string name="valor_inicial2" tools:ignore="MissingTranslation">Value in $. Example: 1700.00</string>
+    <string name="aplicacao_Mensal" tools:ignore="MissingTranslation">Monthly application:</string>
+    <string name="aplicacao_Mensal2" tools:ignore="MissingTranslation">Example: 100.00</string>
+    <string name="tempo_Aplicacao1" tools:ignore="MissingTranslation">Application time:</string>
+    <string name="tempo_Aplicacao2" tools:ignore="MissingTranslation">In months</string>
+    <string name="taxa1" tools:ignore="MissingTranslation">Rate:</string>
+    <string name="taxa2" tools:ignore="MissingTranslation">Example: 0.02</string>
+    <string name="calcula" tools:ignore="MissingTranslation">Calculate</string>
+    <string name="poupanca" tools:ignore="MissingTranslation">Savings</string>
+    <string name="consumo_Total" tools:ignore="MissingTranslation">Total consumption:</string>
+    <string name="couvertArtistico">Artistic couvert:</string>
+    <string name="dividirConta">Split bill:</string>
+    <string name="calculaConta">Calculate bill</string>
+    <string name="taxaServico">Rate service:</string>
+    <string name="contaTotal">Total Bill:</string>
+    <string name="valorPessoa">Value per person:</string>
+</resources>

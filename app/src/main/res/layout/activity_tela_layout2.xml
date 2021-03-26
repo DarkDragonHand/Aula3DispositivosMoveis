@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".TelaLayout2">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:src="@drawable/onibus"
+                android:background="@color/black"/>
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@drawable/aviao"
+                android:background="@color/black"/>
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@drawable/bairros"
+                android:background="@color/black"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:src="@drawable/turismo"
+                android:background="@color/black"/>
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@drawable/telefone"
+                android:background="@color/black"/>
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@drawable/taxi"
+                android:background="@color/black"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:src="@drawable/cultura"
+                android:background="@color/black"/>
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@drawable/feriados"
+                android:background="@color/black"/>
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:src="@drawable/sac"
+                android:background="@color/black"/>
+
+        </TableRow>
+
+    </TableLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula3DispositivosMoveis</string>
+    <string name="consumo_Total">Consumo total:</string>
+    <string name="couvertArtistico">Carga de portada artística:</string>
+    <string name="dividirConta">Cuenta dividida:</string>
+    <string name="calculaConta">Calcular cuenta :</string>
+    <string name="taxaServico">Tarifa de servicio (10%) €:</string>
+    <string name="contaTotal">Cuenta total €:</string>
+    <string name="valorPessoa">Valor por persona:</string>
+</resources>

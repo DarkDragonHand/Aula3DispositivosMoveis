@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context=".TelaLayout3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="Questão 11 de 28" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/quiz_transito_banner" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            app:srcCompat="@drawable/placa" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:text="Q11 - Qual o significado desta placa?" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="@color/verde"
+            android:textAllCaps="false"
+            android:text="Ponte a frente"
+            android:textColor="@color/black" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/verde"
+            android:text="Estreitamento de pista"
+            android:textColor="@color/black" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/verde"
+            android:text="Declive acentuado"
+            android:textColor="@color/black" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/verde"
+            android:text="Redução de largura de veículos"
+            android:textColor="@color/black" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="@color/cinza"
+            android:textAllCaps="false"
+            android:text="Próxima pergunta"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+</ScrollView>

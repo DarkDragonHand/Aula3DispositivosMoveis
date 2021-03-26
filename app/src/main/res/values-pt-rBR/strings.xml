@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula3DispositivosMoveis</string>
+    <string name="valor_inicial">Valor inicial:</string>
+    <string name="valor_inicial2">Valor em R$. Exemplo: 1700.00</string>
+    <string name="aplicacao_Mensal">Aplicação mensal:</string>
+    <string name="aplicacao_Mensal2">Exemplo: 100.00</string>
+    <string name="tempo_Aplicacao1">Tempo de aplicação:</string>
+    <string name="tempo_Aplicacao2">Em meses:</string>
+    <string name="taxa1">Taxa:</string>
+    <string name="taxa2">Exemplo: 0.02</string>
+    <string name="calcula">Calcular</string>
+    <string name="poupanca">Poupança</string>
+    <string name="consumo_Total">Consumo total:</string>
+    <string name="calculaConta">Calcular conta</string>
+    <string name="taxaServico">Taxa de serviço(10%) R$:</string>
+    <string name="contaTotal">Conta total $:</string>
+    <string name="valorPessoa">Valor por pessoa:</string>
+    <string name="dividirConta">Dividir conta:</string>
+    <string name="couvertArtistico">Couvert artístico:</string>
+</resources>
